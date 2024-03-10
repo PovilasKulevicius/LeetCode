@@ -22,13 +22,10 @@
     private static List<int> CalculateRunningSum(int[] numbers)
     {
         var results = new List<int>();
-        for (var i = 0; i < numbers.Length; i++)
-        {
-            if (results.Count == 0)
-                results.Add(numbers[i]);
-            else
-                results.Add(results[i - 1] + numbers[i]);
-        }
+        results.Add(numbers[0]);
+        
+        for (var i = 1; i < numbers.Length; i++)
+            results.Add(results[i - 1] + numbers[i]);
 
         return results;
     }
