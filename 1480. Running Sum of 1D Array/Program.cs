@@ -1,4 +1,6 @@
-﻿class LeetCode
+﻿namespace _1480._Running_Sum_of_1D_Array;
+
+abstract class Solution
 {
     static void Main()
     {
