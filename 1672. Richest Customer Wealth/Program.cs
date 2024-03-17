@@ -7,6 +7,7 @@ abstract class Solution
         var numbers = GetInitialNumbers();
         var results = CalculateWealthOfRichestPerson(numbers);
         OutputResult(results);
+        
     }
 
     private static void OutputResult(int result)
