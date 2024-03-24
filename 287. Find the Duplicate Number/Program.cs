@@ -7,7 +7,6 @@ abstract class Solution
         var input = GetInput();
         var results = FindDuplicate2(input);
         OutputResult(results);
-        
     }
 
     private static void OutputResult(int num)
