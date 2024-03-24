@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualBasic;
-
-namespace _412._Fizz_Buzz;
+﻿namespace _412._Fizz_Buzz;
 
 abstract class Solution
 {
