@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287. Find the Duplicate Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "442. Find All Duplicates in an Array", "442. Find All Duplicates in an Array\442. Find All Duplicates in an Array.csproj", "{620A1B37-E50A-4205-B6A9-691A2795B6FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. First Missing Positive", "41. First Missing Positive\41. First Missing Positive.csproj", "{7EEAB433-54BC-46E8-808C-A851864C6AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,5 +43,9 @@ Global
 		{620A1B37-E50A-4205-B6A9-691A2795B6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620A1B37-E50A-4205-B6A9-691A2795B6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620A1B37-E50A-4205-B6A9-691A2795B6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEAB433-54BC-46E8-808C-A851864C6AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEAB433-54BC-46E8-808C-A851864C6AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEAB433-54BC-46E8-808C-A851864C6AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEAB433-54BC-46E8-808C-A851864C6AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
