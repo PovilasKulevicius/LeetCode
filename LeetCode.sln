@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2962. Count Subarrays Where
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "992. Subarrays with K Different Integers", "992. Subarrays with K Different Integers\992. Subarrays with K Different Integers.csproj", "{367EEB4A-F18A-4936-AD8A-4A5CB3CF9752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{1B534C89-B245-46E6-8430-6C00347EB5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,5 +75,13 @@ Global
 		{367EEB4A-F18A-4936-AD8A-4A5CB3CF9752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{367EEB4A-F18A-4936-AD8A-4A5CB3CF9752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{367EEB4A-F18A-4936-AD8A-4A5CB3CF9752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B534C89-B245-46E6-8430-6C00347EB5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B534C89-B245-46E6-8430-6C00347EB5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B534C89-B245-46E6-8430-6C00347EB5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B534C89-B245-46E6-8430-6C00347EB5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
