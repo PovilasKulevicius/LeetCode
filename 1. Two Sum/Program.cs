@@ -26,12 +26,12 @@ abstract class Solution
             {
                 if (nums[i] + nums[j] == target)
                 {
-                    return [i, j];
+                    return new[] { i, j };
                 }
             }
         }
 
-        return [];
+        return new[] { 0 };
     }
 
     private static (int[], int) GetInitialData()

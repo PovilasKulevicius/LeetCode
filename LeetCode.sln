@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Length of Last Word", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205. Isomorphic Strings", "205. Isomorphic Strings\205. Isomorphic Strings.csproj", "{BA55DF57-3ED8-47E4-82F1-5F12B4E6E76F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,5 +85,9 @@ Global
 		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDF55DFA-1E09-49DF-B6F5-8F0193F30168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA55DF57-3ED8-47E4-82F1-5F12B4E6E76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA55DF57-3ED8-47E4-82F1-5F12B4E6E76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA55DF57-3ED8-47E4-82F1-5F12B4E6E76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA55DF57-3ED8-47E4-82F1-5F12B4E6E76F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
