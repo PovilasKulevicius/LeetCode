@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205. Isomorphic Strings", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614. Maximum Nesting Depth of the Parentheses", "1614. Maximum Nesting Depth of the Parentheses\1614. Maximum Nesting Depth of the Parentheses.csproj", "{58AA0CFE-C423-43EE-8267-C1BB1FD84689}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1544. Make The String Great", "1544. Make The String Great\1544. Make The String Great.csproj", "{983D2C65-A3DD-4C05-A223-33A49649079E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,5 +97,9 @@ Global
 		{58AA0CFE-C423-43EE-8267-C1BB1FD84689}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58AA0CFE-C423-43EE-8267-C1BB1FD84689}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58AA0CFE-C423-43EE-8267-C1BB1FD84689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983D2C65-A3DD-4C05-A223-33A49649079E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983D2C65-A3DD-4C05-A223-33A49649079E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983D2C65-A3DD-4C05-A223-33A49649079E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983D2C65-A3DD-4C05-A223-33A49649079E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
