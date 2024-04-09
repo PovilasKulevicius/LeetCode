@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1249. Minimum Remove to Mak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1700. Number of Students Unable to Eat Lunch", "1700. Number of Students Unable to Eat Lunch\1700. Number of Students Unable to Eat Lunch.csproj", "{64054CF2-66AD-4A7C-B517-185C9885C98E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2073. Time Needed to Buy Tickets", "2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets.csproj", "{D7C8E927-54B8-4489-9307-FE560BFB0C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,5 +115,9 @@ Global
 		{64054CF2-66AD-4A7C-B517-185C9885C98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64054CF2-66AD-4A7C-B517-185C9885C98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64054CF2-66AD-4A7C-B517-185C9885C98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C8E927-54B8-4489-9307-FE560BFB0C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C8E927-54B8-4489-9307-FE560BFB0C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C8E927-54B8-4489-9307-FE560BFB0C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C8E927-54B8-4489-9307-FE560BFB0C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
