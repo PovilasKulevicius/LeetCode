@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2073. Time Needed to Buy Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "402. Remove K Digits", "402. Remove K Digits\402. Remove K Digits.csproj", "{F93A8B03-47DA-4112-BC3C-0298CD34B4CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2487. Remove Nodes From Linked List", "2487. Remove Nodes From Linked List\2487. Remove Nodes From Linked List.csproj", "{E151DDCD-0188-45B2-A721-34082BAD78DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,5 +127,9 @@ Global
 		{F93A8B03-47DA-4112-BC3C-0298CD34B4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F93A8B03-47DA-4112-BC3C-0298CD34B4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F93A8B03-47DA-4112-BC3C-0298CD34B4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E151DDCD-0188-45B2-A721-34082BAD78DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E151DDCD-0188-45B2-A721-34082BAD78DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E151DDCD-0188-45B2-A721-34082BAD78DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E151DDCD-0188-45B2-A721-34082BAD78DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
